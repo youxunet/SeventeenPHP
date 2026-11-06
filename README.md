@@ -3,3 +3,6 @@ SeventeenPHP 是一款超轻量 PHP7+ 框架，面向对象开发，小巧、优
 核心特性：支持多应用、扩展机制、路由分发、自动加载、RESTFul Api、MVC 结构和依赖注入
 
 文档地址：https://www.ourphp.net/SeventeenPHP/
+
+开发不易，感谢捐赠
+<img width="368" height="523" alt="alipay" src="https://github.com/user-attachments/assets/6708ae4b-da3f-4e8e-ac83-a5410c1b7641" />
