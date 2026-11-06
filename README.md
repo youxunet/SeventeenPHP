@@ -5,4 +5,5 @@ SeventeenPHP 是一款超轻量 PHP7+ 框架，面向对象开发，小巧、优
 文档地址：https://www.ourphp.net/SeventeenPHP/
 
 开发不易，感谢捐赠
+<br />
 <img width="368" height="523" alt="alipay" src="https://github.com/user-attachments/assets/6708ae4b-da3f-4e8e-ac83-a5410c1b7641" />
